@@ -103,4 +103,5 @@
 ## 추진계획
 <img width="550" alt="스크린샷 2022-11-05 오전 12 14 50" src="https://user-images.githubusercontent.com/52689953/200010217-54acdbb3-8222-432b-bacb-72c95a474beb.png">
 
-
+## 시연영상
+https://youtu.be/1xNSNjsQruY
